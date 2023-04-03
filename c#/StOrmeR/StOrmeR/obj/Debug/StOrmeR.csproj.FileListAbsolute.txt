@@ -1,0 +1,9 @@
+E:\c#\StOrmeR\StOrmeR\bin\Debug\StOrmeR.exe
+E:\c#\StOrmeR\StOrmeR\bin\Debug\StOrmeR.pdb
+E:\c#\StOrmeR\StOrmeR\obj\Debug\StOrmeR.csproj.AssemblyReference.cache
+E:\c#\StOrmeR\StOrmeR\obj\Debug\StOrmeR.ThaiHoc.resources
+E:\c#\StOrmeR\StOrmeR\obj\Debug\StOrmeR.csproj.GenerateResource.cache
+E:\c#\StOrmeR\StOrmeR\obj\Debug\StOrmeR.csproj.CoreCompileInputs.cache
+E:\c#\StOrmeR\StOrmeR\obj\Debug\StOrmeR.exe
+E:\c#\StOrmeR\StOrmeR\obj\Debug\StOrmeR.pdb
+E:\c#\StOrmeR\StOrmeR\obj\Debug\StOrmeR.Properties.Resources.resources
